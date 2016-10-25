@@ -1,9 +1,11 @@
 .nav {
   position: fixed;
   margin: 0 auto;
+  margin-top: 1em;
   float: left;
   background-color: #292E37;
-  height: 100%;
+  /*height: 100%;*/
+  border: ridge;
 }
 nav {
   margin-top: 1.4em;
@@ -40,4 +42,7 @@ nav li a:hover {
   text-color: white;
   margin-left: 15%;
   color: white;
+}
+.body {
+  background-color: #292E37;
 }
