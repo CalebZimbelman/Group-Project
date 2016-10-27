@@ -44,9 +44,11 @@ nav li a:hover {
 .dorado, .route66, .gibraltar{
   background-color: #292E37;
   text-color: white;
-  margin-left: 15%;
+  margin-left: 24%;
   color: #FF6600;
 }
 .body {
   background-color: #292E37;
+  border-top: inset;
+  border-color: #FF6600;
 }
